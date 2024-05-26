@@ -149,7 +149,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "   " //
+          "Host": "HTTPS://AYDINGEEK.AYDINGEEK.WORKERS.DEV/" //
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
@@ -166,7 +166,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": " " //
+          "Host": "HTTPS://AYDINGEEK.AYDINGEEK.WORKERS.DEV/" //
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
@@ -184,7 +184,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "  " //
+          "Host": "HTTPS://AYDINGEEK.AYDINGEEK.WORKERS.DEV/" //
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
